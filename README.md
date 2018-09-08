@@ -1,1 +1,7 @@
-#Android Espresso Demo Application
+# Android Espresso Demo Application
+
+
+Tests cover
+ - Espresse assertions
+ - Idling resource usage
+ - 
