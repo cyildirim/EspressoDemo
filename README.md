@@ -2,6 +2,6 @@
 
 
 Tests cover
- - Espresse assertions
+ - Espresso assertions
  - Idling resource usage
  - 
